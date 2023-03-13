@@ -2,7 +2,7 @@
 <br>
 
 <h3>Sobre o projeto:</h3>
-<p> Este é um projeto onde utilizei alguns conceitos básicos do CSS e de JavaScript, como evento de click no botão e o MAP para percorrer todo o meu array de objetos. </p>
+<p> Este é um projeto onde utilizei alguns conceitos básicos do CSS e de JavaScript, como evento de click no botão e o MAP para percorrer todo o meu array de objetos e criar um novo. </p>
 <br>
 <h3>Funcionalidades e Demonstração da Aplicação:</h3>
 <p> Um projeto básico para mostrar um efeito visual da página, a troca do modo 'Light' para o modo 'Dark'.  </p>
